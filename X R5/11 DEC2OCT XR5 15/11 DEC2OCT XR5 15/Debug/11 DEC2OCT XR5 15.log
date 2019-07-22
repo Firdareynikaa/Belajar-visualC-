@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  11 DEC2OCT XR5 15.cpp
+d:\prodas xr5\visual c++\x r5\11 dec2oct xr5 15\11 dec2oct xr5 15\11 dec2oct xr5 15.cpp(18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  11 DEC2OCT XR5 15.vcxproj -> D:\PRODAS XR5\VISUAL C++\X R5\11 DEC2OCT XR5 15\Debug\11 DEC2OCT XR5 15.exe

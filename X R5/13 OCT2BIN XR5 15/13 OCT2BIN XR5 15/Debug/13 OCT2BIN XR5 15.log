@@ -1,0 +1,4 @@
+﻿  13 OCT2BIN XR5 15.cpp
+d:\prodas xr5\visual c++\x r5\13 oct2bin xr5 15\13 oct2bin xr5 15\13 oct2bin xr5 15.cpp(18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\prodas xr5\visual c++\x r5\13 oct2bin xr5 15\13 oct2bin xr5 15\13 oct2bin xr5 15.cpp(25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  13 OCT2BIN XR5 15.vcxproj -> D:\PRODAS XR5\VISUAL C++\X R5\13 OCT2BIN XR5 15\Debug\13 OCT2BIN XR5 15.exe
